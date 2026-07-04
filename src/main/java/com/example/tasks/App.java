@@ -8,6 +8,6 @@ public class App {
         System.out.println("- Add a task");
         System.out.println("- Delete a task");
         System.out.println("- View tasks");
-        System.out.println("- Mark a task as EDITED");
+        System.out.println("- Mark a task TESTING Project");
     }
 }
